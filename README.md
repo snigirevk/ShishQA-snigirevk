@@ -13,6 +13,10 @@ bugs: <br>
 <a href="http://89.223.126.182:8080/issue/CALC-29">no button "lg"</a> <br>
 <a href="http://89.223.126.182:8080/issue/CALC-30">change the sign of 0</a> <br>
 
+<b>task_3</b> <br>
+<a href="http://89.223.126.182:8080/issues?q=project:%20%7BRZD%7D">rzd</a> <br>
+
+
 <b>task_4</b> <br> <br>
 <img src="https://github.com/snigirevk/ShishQA-snigirevk/blob/HomeWork-3/task_4.png" alt="башскрипт" width="50%">
 
